@@ -1,0 +1,5 @@
+Title: Loan category prediction based on multiple features.
+
+Technology and Skills: CloudX Lab | Logistic Regression | PySpark | matplotlib | OneHotEncoderEstimator | StringIndexer | VectorAssembler | StandardScaler | Confusion Matrix | ROC curve etc.
+
+Results: The model could correctly classify 90.39% of the observations into good or bad loan categories. Model could achieve test area under the ROC curve of 82.35%.
