@@ -1,0 +1,30 @@
+Note the reference from this project is taken from: https://www.kaggle.com/code/hqfang/drp-nba-game-wins-prediction/input
+
+Data Sources
+NBA Statistics Official Website: https://www.nba.com/stats
+Open-Source Dataset: https://www.kaggle.com/datasets/nathanlauga/nba-games
+
+
+The National Basketball Association, or NBA, a professional basketball league
+• We have 30 teams in the league
+• We have 82 games for each team in each season
+
+Objective: Predict the number of game wins a team will have in a particular season using its performance statistics in the previous season with Machine Learning Algorithms
+
+Models:
+
+• Linear Regression • Lasso Regression 
+• Support Vector Machine Regression
+• Random Forest Regression
+
+
+Conclusion:
+• Easy models like linear regression and lasso regression are preferred
+• Features like Plus-Minus and Steals (positive), 3-Point Field Goal Percentage and Field Goal Percentage (negative) might be more considered when predicting game wins
+• RMSE is still a bit high (slightly below 10), might due to poor features chosen
+• Would try more feature engineering to find more valuable
+features
+
+
+
+
